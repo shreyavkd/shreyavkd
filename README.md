@@ -3,7 +3,7 @@
 ⚜️Bristol Scout Leader<br>
 🔬Interested in quantum research and applied statistics<br>
 🧮Committee of Data Science Society and Maths Society (UoB)<br>
-🌱Passionate about innovation and sustainability<br>
+🌱Passionate about innovation, sustainability and inclusivity<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyaviswanathan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyavkd@gmail.com) 
